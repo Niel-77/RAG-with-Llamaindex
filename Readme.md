@@ -14,4 +14,4 @@ The performance of Query2CAD using GPT-4 as a language model surpasses that achi
 - Finding a specific answer using the Vector Query Engine is less GPU-intensive than the Summary Query Engine.
 - The RouterQueryEngine() was effective in selecting the required query engine as per the question.
 
-### You can find the detailed documentation in [llamaindexlearn.ipynb.](https://github.com/Niel-77/RAG-with-Llamaindex/blob/main/llamaindexlearn.ipynb).
+### You can find the detailed documentation in [llamaindexlearnrag.ipynb.](https://github.com/Niel-77/RAG-with-Llamaindex/blob/main/llamaindexlearnrag.ipynb).
