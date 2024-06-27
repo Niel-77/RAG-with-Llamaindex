@@ -1,6 +1,6 @@
 ## Implementing Rag with llamaindex
 
-### Question
+### Question ([ragapp.py](https://github.com/Niel-77/RAG-with-Llamaindex/blob/main/ragapp.py))
 How good Query2CAD performs with GPT-4 in comparison to GPT-3.5?
 
 ### Answer given by the LLM
